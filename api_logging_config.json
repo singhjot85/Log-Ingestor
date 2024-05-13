@@ -1,0 +1,11 @@
+{
+    "API1": {"level": "INFO", "file_path": "log1.log"},
+    "API2": {"level": "INFO", "file_path": "log2.log"},
+    "API3": {"level": "INFO", "file_path": "log3.log"},
+    "API4": {"level": "INFO", "file_path": "log4.log"},
+    "API5": {"level": "INFO", "file_path": "log5.log"},
+    "API6": {"level": "INFO", "file_path": "log6.log"},
+    "API7": {"level": "INFO", "file_path": "log7.log"},
+    "API8": {"level": "INFO", "file_path": "log8.log"},
+    "API9": {"level": "INFO", "file_path": "log9.log"}
+}
