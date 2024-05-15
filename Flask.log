@@ -1,0 +1,4 @@
+2024-05-15 20:06:47,421 - INFO - GET request to fetch all data successful
+2024-05-15 20:06:47,457 - INFO - GET request to fetch data by ID '1' successful
+2024-05-15 20:06:47,462 - INFO - PUT request to update data by ID '1' successful
+2024-05-15 20:06:47,468 - INFO - GET request to fetch data by ID '1' successful

@@ -12,7 +12,7 @@ logger.addHandler(file_handler)
 
 # Example usage
 logger.info('Fetching YouTube video information')
-youtube = build("youtube", "v3", developerKey="your_api_key")
+youtube = build("youtube", "v3", developerKey="")
 request = youtube.videos().list(part="snippet", chart="mostPopular", maxResults=5)
 response = request.execute()
 for video in response['items']:

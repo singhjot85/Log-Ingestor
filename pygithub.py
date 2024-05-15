@@ -12,6 +12,6 @@ logger.addHandler(file_handler)
 
 # Example usage
 logger.info('Fetching repository information')
-g = Github("access_token")
-repo = g.get_repo("user/repo")
+g = Github("")
+repo = g.get_repo("https://github.com/singhjot85/Log-Ingestor.git")
 logger.info(f'Repository full name: {repo.full_name}')
